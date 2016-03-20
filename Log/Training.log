@@ -1,0 +1,174 @@
+Using gpu device 2: GeForce GTX TITAN X (CNMeM is disabled)
+Load Data From data.save
+Load Data Completed
+
+  train_question:  (2000, 300)
+  train_answers:   (2000, 4, 300)
+  train_target:    (2000, 4)
+  valid_question:  (250, 300)
+  valid_answers:   (250, 4, 300)
+  valid_target:    (250, 4)
+  test_question:   (250, 300)
+  test_answers:    (250, 4, 300)
+  test_target:     (250, 4)
+
+Build Model...
+Build Model Completed
+
+Model Parameters: 
+    Epoch Num      : 50
+    Batch Size     : 50
+    Learning Rate  : 0.40
+    Embedding Size : 150
+
+Training The Model...
+epoch 1, minibatch 40, train loss 0.562511, right percent 0.243000
+    validation loss 0.561891, right percent 30.00%
+    test loss 0.563384, right percent 23.20%
+epoch 2, minibatch 40, train loss 0.561786, right percent 0.261000
+    validation loss 0.561479, right percent 31.20%
+    test loss 0.563007, right percent 26.00%
+epoch 3, minibatch 40, train loss 0.561093, right percent 0.280500
+    validation loss 0.561082, right percent 31.20%
+    test loss 0.562652, right percent 26.40%
+epoch 4, minibatch 40, train loss 0.560410, right percent 0.302000
+    validation loss 0.560689, right percent 32.80%
+    test loss 0.562312, right percent 26.40%
+epoch 5, minibatch 40, train loss 0.559716, right percent 0.317500
+    validation loss 0.560282, right percent 32.80%
+    test loss 0.561980, right percent 26.40%
+epoch 6, minibatch 40, train loss 0.558981, right percent 0.331000
+    validation loss 0.559842, right percent 32.80%
+    test loss 0.561645, right percent 28.00%
+epoch 7, minibatch 40, train loss 0.558165, right percent 0.338500
+    validation loss 0.559340, right percent 34.00%
+    test loss 0.561297, right percent 29.20%
+epoch 8, minibatch 40, train loss 0.557207, right percent 0.340500
+    validation loss 0.558735, right percent 34.00%
+    test loss 0.560927, right percent 29.60%
+epoch 9, minibatch 40, train loss 0.556021, right percent 0.349000
+    validation loss 0.557982, right percent 33.60%
+    test loss 0.560537, right percent 30.00%
+epoch 10, minibatch 40, train loss 0.554524, right percent 0.356000
+    validation loss 0.557099, right percent 34.00%
+    test loss 0.560196, right percent 29.60%
+epoch 11, minibatch 40, train loss 0.552872, right percent 0.365000
+    validation loss 0.556332, right percent 34.40%
+    test loss 0.560020, right percent 28.40%
+epoch 12, minibatch 40, train loss 0.551536, right percent 0.365000
+    validation loss 0.555843, right percent 35.20%
+    test loss 0.559930, right percent 29.60%
+epoch 13, minibatch 40, train loss 0.550532, right percent 0.367500
+    validation loss 0.555499, right percent 34.80%
+    test loss 0.559860, right percent 30.00%
+epoch 14, minibatch 40, train loss 0.549651, right percent 0.377000
+    validation loss 0.555214, right percent 35.60%
+    test loss 0.559806, right percent 30.80%
+epoch 15, minibatch 40, train loss 0.548824, right percent 0.375500
+    validation loss 0.554962, right percent 36.00%
+    test loss 0.559766, right percent 30.80%
+epoch 16, minibatch 40, train loss 0.548035, right percent 0.378000
+    validation loss 0.554736, right percent 36.40%
+    test loss 0.559740, right percent 30.80%
+epoch 17, minibatch 40, train loss 0.547277, right percent 0.381500
+    validation loss 0.554530, right percent 36.80%
+    test loss 0.559724, right percent 30.40%
+epoch 18, minibatch 40, train loss 0.546545, right percent 0.383500
+    validation loss 0.554343, right percent 37.60%
+    test loss 0.559720, right percent 30.40%
+epoch 19, minibatch 40, train loss 0.545838, right percent 0.386500
+    validation loss 0.554172, right percent 37.60%
+    test loss 0.559725, right percent 30.00%
+epoch 20, minibatch 40, train loss 0.545152, right percent 0.386500
+    validation loss 0.554016, right percent 37.60%
+    test loss 0.559739, right percent 29.20%
+epoch 21, minibatch 40, train loss 0.544486, right percent 0.387500
+    validation loss 0.553874, right percent 37.60%
+    test loss 0.559763, right percent 28.80%
+epoch 22, minibatch 40, train loss 0.543838, right percent 0.389000
+    validation loss 0.553744, right percent 38.00%
+    test loss 0.559795, right percent 29.20%
+epoch 23, minibatch 40, train loss 0.543207, right percent 0.394500
+    validation loss 0.553627, right percent 37.60%
+    test loss 0.559834, right percent 29.20%
+epoch 24, minibatch 40, train loss 0.542590, right percent 0.395500
+    validation loss 0.553520, right percent 37.60%
+    test loss 0.559881, right percent 30.00%
+epoch 25, minibatch 40, train loss 0.541989, right percent 0.393000
+    validation loss 0.553423, right percent 36.80%
+    test loss 0.559935, right percent 30.00%
+epoch 26, minibatch 40, train loss 0.541401, right percent 0.395000
+    validation loss 0.553336, right percent 36.80%
+    test loss 0.559995, right percent 29.20%
+epoch 27, minibatch 40, train loss 0.540825, right percent 0.396000
+    validation loss 0.553258, right percent 37.20%
+    test loss 0.560062, right percent 30.00%
+epoch 28, minibatch 40, train loss 0.540262, right percent 0.399000
+    validation loss 0.553188, right percent 37.20%
+    test loss 0.560134, right percent 29.60%
+epoch 29, minibatch 40, train loss 0.539709, right percent 0.400000
+    validation loss 0.553126, right percent 36.40%
+    test loss 0.560210, right percent 30.00%
+epoch 30, minibatch 40, train loss 0.539167, right percent 0.402000
+    validation loss 0.553070, right percent 37.20%
+    test loss 0.560292, right percent 30.00%
+epoch 31, minibatch 40, train loss 0.538635, right percent 0.402500
+    validation loss 0.553022, right percent 36.80%
+    test loss 0.560378, right percent 30.80%
+epoch 32, minibatch 40, train loss 0.538112, right percent 0.402500
+    validation loss 0.552979, right percent 36.40%
+    test loss 0.560468, right percent 30.80%
+epoch 33, minibatch 40, train loss 0.537598, right percent 0.404500
+    validation loss 0.552943, right percent 36.80%
+    test loss 0.560562, right percent 30.80%
+epoch 34, minibatch 40, train loss 0.537092, right percent 0.407500
+    validation loss 0.552911, right percent 37.20%
+    test loss 0.560659, right percent 30.80%
+epoch 35, minibatch 40, train loss 0.536594, right percent 0.408500
+    validation loss 0.552884, right percent 36.80%
+    test loss 0.560758, right percent 30.80%
+epoch 36, minibatch 40, train loss 0.536103, right percent 0.410500
+    validation loss 0.552861, right percent 37.60%
+    test loss 0.560861, right percent 30.80%
+epoch 37, minibatch 40, train loss 0.535619, right percent 0.413000
+    validation loss 0.552841, right percent 37.60%
+    test loss 0.560965, right percent 30.80%
+epoch 38, minibatch 40, train loss 0.535141, right percent 0.413500
+    validation loss 0.552825, right percent 37.20%
+    test loss 0.561071, right percent 30.80%
+epoch 39, minibatch 40, train loss 0.534669, right percent 0.417500
+    validation loss 0.552812, right percent 37.20%
+    test loss 0.561179, right percent 30.80%
+epoch 40, minibatch 40, train loss 0.534202, right percent 0.417500
+    validation loss 0.552801, right percent 36.40%
+    test loss 0.561288, right percent 30.80%
+epoch 41, minibatch 40, train loss 0.533741, right percent 0.417500
+    validation loss 0.552791, right percent 36.40%
+    test loss 0.561397, right percent 31.60%
+epoch 42, minibatch 40, train loss 0.533283, right percent 0.418000
+    validation loss 0.552783, right percent 36.00%
+    test loss 0.561508, right percent 31.60%
+epoch 43, minibatch 40, train loss 0.532829, right percent 0.420000
+    validation loss 0.552776, right percent 36.00%
+    test loss 0.561618, right percent 31.60%
+epoch 44, minibatch 40, train loss 0.532378, right percent 0.420500
+    validation loss 0.552769, right percent 36.00%
+    test loss 0.561727, right percent 32.00%
+epoch 45, minibatch 40, train loss 0.531930, right percent 0.422500
+    validation loss 0.552762, right percent 36.40%
+    test loss 0.561836, right percent 32.00%
+epoch 46, minibatch 40, train loss 0.531484, right percent 0.425500
+    validation loss 0.552753, right percent 36.00%
+    test loss 0.561943, right percent 32.00%
+epoch 47, minibatch 40, train loss 0.531039, right percent 0.424500
+    validation loss 0.552743, right percent 36.00%
+    test loss 0.562049, right percent 32.00%
+epoch 48, minibatch 40, train loss 0.530594, right percent 0.425500
+    validation loss 0.552729, right percent 36.00%
+    test loss 0.562151, right percent 32.00%
+epoch 49, minibatch 40, train loss 0.530148, right percent 0.427500
+    validation loss 0.552712, right percent 35.20%
+    test loss 0.562250, right percent 32.00%
+epoch 50, minibatch 40, train loss 0.529700, right percent 0.427500
+    validation loss 0.552689, right percent 36.00%
+    test loss 0.562344, right percent 32.00%

@@ -1,0 +1,117 @@
+Load Data From test_data.save
+Load Data Completed
+
+  train_question:  (200, 300)
+  train_answers:   (200, 4, 300)
+  train_target:    (200, 4)
+  valid_question:  (25, 300)
+  valid_answers:   (25, 4, 300)
+  valid_target:    (25, 4)
+  test_question:   (25, 300)
+  test_answers:    (25, 4, 300)
+  test_target:     (25, 4)
+
+Build Model...
+Build Model Completed
+
+Training The Model...
+epoch 1, minibatch 4, train loss 0.561918, right percent 0.300000
+epoch 2, minibatch 4, train loss 0.561427, right percent 0.315000
+epoch 3, minibatch 4, train loss 0.560939, right percent 0.320000
+epoch 4, minibatch 4, train loss 0.560451, right percent 0.325000
+epoch 5, minibatch 4, train loss 0.559964, right percent 0.335000
+epoch 6, minibatch 4, train loss 0.559477, right percent 0.340000
+epoch 7, minibatch 4, train loss 0.558990, right percent 0.350000
+epoch 8, minibatch 4, train loss 0.558501, right percent 0.355000
+epoch 9, minibatch 4, train loss 0.558009, right percent 0.360000
+epoch 10, minibatch 4, train loss 0.557514, right percent 0.385000
+epoch 11, minibatch 4, train loss 0.557016, right percent 0.405000
+epoch 12, minibatch 4, train loss 0.556511, right percent 0.420000
+epoch 13, minibatch 4, train loss 0.556001, right percent 0.445000
+epoch 14, minibatch 4, train loss 0.555482, right percent 0.455000
+epoch 15, minibatch 4, train loss 0.554955, right percent 0.485000
+epoch 16, minibatch 4, train loss 0.554416, right percent 0.495000
+epoch 17, minibatch 4, train loss 0.553864, right percent 0.500000
+epoch 18, minibatch 4, train loss 0.553297, right percent 0.505000
+epoch 19, minibatch 4, train loss 0.552714, right percent 0.505000
+epoch 20, minibatch 4, train loss 0.552110, right percent 0.525000
+epoch 21, minibatch 4, train loss 0.551484, right percent 0.525000
+epoch 22, minibatch 4, train loss 0.550833, right percent 0.535000
+epoch 23, minibatch 4, train loss 0.550152, right percent 0.545000
+epoch 24, minibatch 4, train loss 0.549438, right percent 0.545000
+epoch 25, minibatch 4, train loss 0.548688, right percent 0.540000
+epoch 26, minibatch 4, train loss 0.547897, right percent 0.545000
+epoch 27, minibatch 4, train loss 0.547061, right percent 0.540000
+epoch 28, minibatch 4, train loss 0.546176, right percent 0.540000
+epoch 29, minibatch 4, train loss 0.545238, right percent 0.540000
+epoch 30, minibatch 4, train loss 0.544247, right percent 0.545000
+epoch 31, minibatch 4, train loss 0.543202, right percent 0.555000
+epoch 32, minibatch 4, train loss 0.542107, right percent 0.555000
+epoch 33, minibatch 4, train loss 0.540969, right percent 0.550000
+epoch 34, minibatch 4, train loss 0.539804, right percent 0.560000
+epoch 35, minibatch 4, train loss 0.538631, right percent 0.570000
+epoch 36, minibatch 4, train loss 0.537475, right percent 0.565000
+epoch 37, minibatch 4, train loss 0.536359, right percent 0.565000
+epoch 38, minibatch 4, train loss 0.535305, right percent 0.575000
+epoch 39, minibatch 4, train loss 0.534322, right percent 0.570000
+epoch 40, minibatch 4, train loss 0.533409, right percent 0.575000
+epoch 41, minibatch 4, train loss 0.532558, right percent 0.575000
+epoch 42, minibatch 4, train loss 0.531756, right percent 0.570000
+epoch 43, minibatch 4, train loss 0.530992, right percent 0.570000
+epoch 44, minibatch 4, train loss 0.530254, right percent 0.585000
+epoch 45, minibatch 4, train loss 0.529537, right percent 0.590000
+epoch 46, minibatch 4, train loss 0.528833, right percent 0.595000
+epoch 47, minibatch 4, train loss 0.528141, right percent 0.600000
+epoch 48, minibatch 4, train loss 0.527457, right percent 0.600000
+epoch 49, minibatch 4, train loss 0.526781, right percent 0.600000
+epoch 50, minibatch 4, train loss 0.526110, right percent 0.610000
+epoch 51, minibatch 4, train loss 0.525445, right percent 0.625000
+epoch 52, minibatch 4, train loss 0.524784, right percent 0.615000
+epoch 53, minibatch 4, train loss 0.524127, right percent 0.630000
+epoch 54, minibatch 4, train loss 0.523474, right percent 0.630000
+epoch 55, minibatch 4, train loss 0.522825, right percent 0.640000
+epoch 56, minibatch 4, train loss 0.522179, right percent 0.640000
+epoch 57, minibatch 4, train loss 0.521536, right percent 0.645000
+epoch 58, minibatch 4, train loss 0.520896, right percent 0.650000
+epoch 59, minibatch 4, train loss 0.520258, right percent 0.645000
+epoch 60, minibatch 4, train loss 0.519623, right percent 0.645000
+epoch 61, minibatch 4, train loss 0.518991, right percent 0.640000
+epoch 62, minibatch 4, train loss 0.518361, right percent 0.650000
+epoch 63, minibatch 4, train loss 0.517734, right percent 0.650000
+epoch 64, minibatch 4, train loss 0.517108, right percent 0.650000
+epoch 65, minibatch 4, train loss 0.516485, right percent 0.650000
+epoch 66, minibatch 4, train loss 0.515864, right percent 0.650000
+epoch 67, minibatch 4, train loss 0.515245, right percent 0.650000
+epoch 68, minibatch 4, train loss 0.514628, right percent 0.645000
+epoch 69, minibatch 4, train loss 0.514012, right percent 0.645000
+epoch 70, minibatch 4, train loss 0.513399, right percent 0.655000
+epoch 71, minibatch 4, train loss 0.512787, right percent 0.660000
+epoch 72, minibatch 4, train loss 0.512177, right percent 0.655000
+epoch 73, minibatch 4, train loss 0.511569, right percent 0.650000
+epoch 74, minibatch 4, train loss 0.510963, right percent 0.655000
+epoch 75, minibatch 4, train loss 0.510358, right percent 0.655000
+epoch 76, minibatch 4, train loss 0.509755, right percent 0.660000
+epoch 77, minibatch 4, train loss 0.509154, right percent 0.665000
+epoch 78, minibatch 4, train loss 0.508554, right percent 0.665000
+epoch 79, minibatch 4, train loss 0.507955, right percent 0.665000
+epoch 80, minibatch 4, train loss 0.507358, right percent 0.660000
+epoch 81, minibatch 4, train loss 0.506763, right percent 0.660000
+epoch 82, minibatch 4, train loss 0.506169, right percent 0.655000
+epoch 83, minibatch 4, train loss 0.505576, right percent 0.660000
+epoch 84, minibatch 4, train loss 0.504985, right percent 0.650000
+epoch 85, minibatch 4, train loss 0.504395, right percent 0.665000
+epoch 86, minibatch 4, train loss 0.503807, right percent 0.665000
+epoch 87, minibatch 4, train loss 0.503220, right percent 0.660000
+epoch 88, minibatch 4, train loss 0.502634, right percent 0.665000
+epoch 89, minibatch 4, train loss 0.502049, right percent 0.670000
+epoch 90, minibatch 4, train loss 0.501466, right percent 0.670000
+epoch 91, minibatch 4, train loss 0.500884, right percent 0.665000
+epoch 92, minibatch 4, train loss 0.500303, right percent 0.670000
+epoch 93, minibatch 4, train loss 0.499723, right percent 0.660000
+epoch 94, minibatch 4, train loss 0.499145, right percent 0.665000
+epoch 95, minibatch 4, train loss 0.498568, right percent 0.665000
+epoch 96, minibatch 4, train loss 0.497991, right percent 0.660000
+epoch 97, minibatch 4, train loss 0.497416, right percent 0.665000
+epoch 98, minibatch 4, train loss 0.496842, right percent 0.660000
+epoch 99, minibatch 4, train loss 0.496269, right percent 0.660000
+epoch 100, minibatch 4, train loss 0.495697, right percent 0.665000
